@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏s dgjnebaebvgkabjlsgankl信
+title: 德玛西亚之力
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到我的澳门首家线上赌场~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: iOS / 机器人大怪兽呱呱呱
 url: "http://baixin.io"
 
 # Comment
@@ -59,7 +59,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于赌场, description: about, url: '/about'}      
     
 
 # Pagination
