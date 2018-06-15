@@ -1,5 +1,5 @@
 ---
-layout: 德玛西亚
+layout: page
 title: 关于德玛西亚 
 ---
 
